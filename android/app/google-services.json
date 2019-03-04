@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "983808841682",
+    "firebase_url": "https://photography-app-80ae2.firebaseio.com",
+    "project_id": "photography-app-80ae2",
+    "storage_bucket": "photography-app-80ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983808841682:android:972f5b4cf2923f60",
+        "android_client_info": {
+          "package_name": "com.jessebellingham.photography_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983808841682-3eb3ut8p21is8e41ht2b7c3t6tcjr4p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5cMCljKP8javIlrrpzEw2Z_GKYTjpZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
